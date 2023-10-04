@@ -1,7 +1,7 @@
 
-# DIO | Resumos Git e GitHub
+# DIO | Resumo Git e GitHub
 
-Repositorios para amazenar resumos sobre Git e GitHub
+Repositorios para amazenar resumo sobre Git e GitHub
 do curso versionamento de codico com Git e GitHub da [Dio.me](https://www.dio.me/).
 
 ## 📚 Documentação
